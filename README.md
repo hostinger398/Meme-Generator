@@ -1,2 +1,1 @@
-# Meme-Generator
-Meme Generator
+print("Hello World")
